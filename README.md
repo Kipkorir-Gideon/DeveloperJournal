@@ -1,3 +1,5 @@
+# DeveloperJournal
+A React application for journal-ling daily happening specifically for developers. This helps in noting down errors encountered and how one went about them for easy reference in the future when one got into the same issues.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
