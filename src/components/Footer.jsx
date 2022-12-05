@@ -1,3 +1,5 @@
+import React from "react";
+
 const date = new Date();
 const currentTime = date.getFullYear();
 
